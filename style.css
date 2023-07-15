@@ -1,0 +1,212 @@
+
+        #whole
+        {   margin-left:400px;    
+            margin-top:50px;     
+            width:500px;
+            height: 600px;
+            border-radius: 25px;
+            background-color:blue;
+        }
+        #first
+        {
+            width:450px;
+            height:100px;
+            background-color:aquamarine;
+            position: relative;
+            left:25px;
+            top:15px;
+            text-align: right;
+            font-size: 30px;
+        }
+        #second
+        {
+            width:450px;
+            height:435px;
+            border-radius: 25px;
+            background-color: purple;
+            position: relative;
+            left:25px;
+            top:10px;
+        }
+        #one
+        {
+            width: 70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 20px;
+            top: 30px;
+        }
+        #two
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 60px;
+            top: 30px;
+        }
+        #three
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left:100px;
+            top: 30px;
+        }
+        #four
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 130px;
+            top: 30px;
+        }
+        #five
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            right:275px;
+            top: 110px;
+        }
+        #six
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            right:235px;
+            top: 110px;
+        }
+        #seven
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 250px;
+            top: 50px;
+        }
+        #eight
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 280px;
+            top: 50px;
+        }
+        #nine
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            right: 125px;
+            top: 130px;
+        }
+        #ten
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            right: 85px;
+            top: 130px;
+        }
+        #eleven
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            right: 47px;
+            top: 130px;
+        }
+        #twelve
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            right: 15px;
+            top: 130px;
+        }
+        #thirteen
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 25px;
+            top: 150px;
+        }
+        #fourteen
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 62px;
+            top: 150px;
+        }
+        #fifteen
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left:100px;
+            top: 150px;
+        }
+        #sixteen
+        {
+            width:70px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 133px;
+            top: 150px;
+        }
+        #seventeen
+        {
+            width:180px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left:25px;
+            top: 175px;
+        }
+        #eightteen
+        {
+            width:180px;
+            height: 60px;
+            border-radius: 15px;
+            background-color: pink;
+            position: relative;
+            left: 65px;
+            top: 175px;
+        }
+
+    
